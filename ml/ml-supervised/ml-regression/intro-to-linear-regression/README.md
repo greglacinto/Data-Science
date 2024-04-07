@@ -18,3 +18,7 @@ In this lab we'll be looking at data from all 30 Major League Baseball teams and
 - io
 - requests
 
+## Sample Visualizations
+![histogram of residuals](histogram-for-residuals.png)
+<img src="probabilty-plot.png" alt="A Probabilty Plot" width="600" height="400">
+
