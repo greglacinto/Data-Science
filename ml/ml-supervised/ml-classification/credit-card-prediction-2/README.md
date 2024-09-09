@@ -43,5 +43,6 @@ This project aims to develop a machine learning model capable of accurately pred
 1. **unzip the file or download entire folder from github**
 2. **Enter project foleder and create a virtual environment (python -m venv .venv)** 
 3. **install requirements using : pip install -r requirements.txt** 
+4. **download file from [https://kh3-ls-storage.s3.us-east-1.amazonaws.com/Updated%20Project%20guide%20data%20set/creditcard.csv] and move into data directory**
 
 
